@@ -111,3 +111,7 @@ We use GitHub Issues to organize and track support requests. Submitting an issue
 ## Thank You
 
 Thank you for taking the time to submit a clear issue. It helps us support churches, nonprofits, and community organizations more effectively.
+
+## Get Support
+Submit a support request here:
+**Issues:** https://github.com/theaccordproject/support/issues
